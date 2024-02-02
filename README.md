@@ -1,2 +1,2 @@
-# roko
-🪨 A Markdown editor with a foundation of rocks
+# Roko
+The Markdown editor with a foundation of rocks
